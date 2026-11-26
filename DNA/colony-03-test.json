@@ -1,0 +1,30 @@
+{
+  "fixture_id": "HC-UNITING-TEST-001",
+  "schema_version": "0.1",
+  "classification": "PUBLIC_SYNTHETIC",
+  "identity": {
+    "donor": "simulated Colony 03",
+    "receiver": "Colony 02",
+    "preserve_receiver_identity": true
+  },
+  "knowledge": {
+    "topic": "arithmetic"
+  },
+  "capability": {
+    "skill": "verify multiplication by repeated addition",
+    "status": "candidate"
+  },
+  "evidence": {
+    "task": "Calculate 7 × 8 using repeated addition and independently cross-check.",
+    "expected": 56,
+    "validation_status": "not yet executed"
+  },
+  "relation": {
+    "transfer": "donor to receiver",
+    "scope": "smoke test only"
+  },
+  "evolution": {
+    "version": 1,
+    "limitations": "Synthetic fixture; not actual donor memory or proof of improved intelligence."
+  }
+}
