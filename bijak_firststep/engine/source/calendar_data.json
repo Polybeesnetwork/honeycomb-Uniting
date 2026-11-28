@@ -1,0 +1,553 @@
+[
+  {
+    "day": 1,
+    "topic": "Kumpulan sama banyak",
+    "new": [],
+    "reviews": [],
+    "known": []
+  },
+  {
+    "day": 2,
+    "topic": "Susunan dan tukar tertib",
+    "new": [],
+    "reviews": [],
+    "known": []
+  },
+  {
+    "day": 3,
+    "topic": "Sifir 1 dan sifar",
+    "new": [
+      1
+    ],
+    "reviews": [],
+    "known": []
+  },
+  {
+    "day": 4,
+    "topic": "Sifir 2",
+    "new": [
+      2
+    ],
+    "reviews": [
+      1
+    ],
+    "known": [
+      1
+    ]
+  },
+  {
+    "day": 5,
+    "topic": "Sifir 5",
+    "new": [
+      5
+    ],
+    "reviews": [
+      2
+    ],
+    "known": [
+      1,
+      2
+    ]
+  },
+  {
+    "day": 6,
+    "topic": "Sifir 10",
+    "new": [
+      10
+    ],
+    "reviews": [
+      1,
+      5
+    ],
+    "known": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "day": 7,
+    "topic": "Ulang asas",
+    "new": [],
+    "reviews": [
+      2,
+      10
+    ],
+    "known": [
+      1,
+      2,
+      5,
+      10
+    ]
+  },
+  {
+    "day": 8,
+    "topic": "Sifir 3",
+    "new": [
+      3
+    ],
+    "reviews": [
+      5
+    ],
+    "known": [
+      1,
+      2,
+      5,
+      10
+    ]
+  },
+  {
+    "day": 9,
+    "topic": "Sifir 4",
+    "new": [
+      4
+    ],
+    "reviews": [
+      3,
+      10
+    ],
+    "known": [
+      1,
+      2,
+      3,
+      5,
+      10
+    ]
+  },
+  {
+    "day": 10,
+    "topic": "Sifir 9",
+    "new": [
+      9
+    ],
+    "reviews": [
+      1,
+      4
+    ],
+    "known": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      10
+    ]
+  },
+  {
+    "day": 11,
+    "topic": "Campur 3, 4 dan 9",
+    "new": [],
+    "reviews": [
+      2,
+      3,
+      9
+    ],
+    "known": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      9,
+      10
+    ]
+  },
+  {
+    "day": 12,
+    "topic": "Darab dan bahagi",
+    "new": [],
+    "reviews": [
+      4,
+      5
+    ],
+    "known": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      9,
+      10
+    ]
+  },
+  {
+    "day": 13,
+    "topic": "Pilih strategi",
+    "new": [],
+    "reviews": [
+      9,
+      10
+    ],
+    "known": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      9,
+      10
+    ]
+  },
+  {
+    "day": 14,
+    "topic": "Ulang kumulatif",
+    "new": [],
+    "reviews": [],
+    "known": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      9,
+      10
+    ]
+  },
+  {
+    "day": 15,
+    "topic": "Sifir 6",
+    "new": [
+      6
+    ],
+    "reviews": [
+      3
+    ],
+    "known": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      9,
+      10
+    ]
+  },
+  {
+    "day": 16,
+    "topic": "Sifir 7",
+    "new": [
+      7
+    ],
+    "reviews": [
+      4,
+      6
+    ],
+    "known": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      9,
+      10
+    ]
+  },
+  {
+    "day": 17,
+    "topic": "Sifir 8",
+    "new": [
+      8
+    ],
+    "reviews": [
+      1,
+      7,
+      9
+    ],
+    "known": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      9,
+      10
+    ]
+  },
+  {
+    "day": 18,
+    "topic": "Fakta 6, 7 dan 8",
+    "new": [],
+    "reviews": [
+      2,
+      6,
+      8
+    ],
+    "known": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ]
+  },
+  {
+    "day": 19,
+    "topic": "Fakta jiran",
+    "new": [],
+    "reviews": [
+      5,
+      7
+    ],
+    "known": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ]
+  },
+  {
+    "day": 20,
+    "topic": "Cerita sifir",
+    "new": [],
+    "reviews": [
+      8,
+      10
+    ],
+    "known": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ]
+  },
+  {
+    "day": 21,
+    "topic": "Ulang kumulatif",
+    "new": [],
+    "reviews": [],
+    "known": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ]
+  },
+  {
+    "day": 22,
+    "topic": "Sifir 11",
+    "new": [
+      11
+    ],
+    "reviews": [
+      3,
+      6
+    ],
+    "known": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ]
+  },
+  {
+    "day": 23,
+    "topic": "Sifir 12",
+    "new": [
+      12
+    ],
+    "reviews": [
+      4,
+      7,
+      11
+    ],
+    "known": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "day": 24,
+    "topic": "Darab dan bahagi",
+    "new": [],
+    "reviews": [
+      8,
+      9,
+      12
+    ],
+    "known": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ]
+  },
+  {
+    "day": 25,
+    "topic": "Campur semua sifir",
+    "new": [],
+    "reviews": [
+      11
+    ],
+    "known": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ]
+  },
+  {
+    "day": 26,
+    "topic": "Matematik mental",
+    "new": [],
+    "reviews": [
+      12
+    ],
+    "known": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ]
+  },
+  {
+    "day": 27,
+    "topic": "Aplikasi harian",
+    "new": [],
+    "reviews": [],
+    "known": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ]
+  },
+  {
+    "day": 28,
+    "topic": "Ulang kumulatif",
+    "new": [],
+    "reviews": [],
+    "known": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ]
+  },
+  {
+    "day": 29,
+    "topic": "Ulang fakta peribadi",
+    "new": [],
+    "reviews": [
+      6,
+      11
+    ],
+    "known": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ]
+  },
+  {
+    "day": 30,
+    "topic": "Penilaian akhir",
+    "new": [],
+    "reviews": [
+      7,
+      12
+    ],
+    "known": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ]
+  }
+]

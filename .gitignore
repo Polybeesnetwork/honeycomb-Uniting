@@ -1,0 +1,6 @@
+# Mission workspace (COL-11-BIJAK-FIRSTSTEP-001)
+.venv/
+google_drive/
+__pycache__/
+*.pyc
+bijak_firststep/qa/renders/

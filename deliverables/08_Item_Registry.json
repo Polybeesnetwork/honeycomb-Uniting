@@ -1,0 +1,994 @@
+[
+  {
+    "id": "A1-01",
+    "objective": "Padankan objek serupa",
+    "category": "A1 Mencari kesamaan",
+    "difficulty": "Basic",
+    "prompt": "Padankan setiap benda di kiri dengan benda sama di kanan.",
+    "answer": "epal–epal, bola–bola, buku–buku, pensel–pensel (7 padanan)",
+    "status": "VALIDATED",
+    "provenance": "COL-11 authored",
+    "refs": [
+      {
+        "book": "01_BIJAK_FirstStep_Pupil_Book.pdf",
+        "page": 5
+      }
+    ]
+  },
+  {
+    "id": "A1-02",
+    "objective": "Padankan bentuk dan warna",
+    "category": "A1 Mencari kesamaan",
+    "difficulty": "Basic",
+    "prompt": "Sambungkan bentuk sama dengan bentuk sama; padankan warna sama.",
+    "answer": "△–△, ○–○, □–□, ☆–☆; oren–oren, hijau–hijau, biru–biru",
+    "status": "VALIDATED",
+    "provenance": "COL-11 authored",
+    "refs": [
+      {
+        "book": "01_BIJAK_FirstStep_Pupil_Book.pdf",
+        "page": 6
+      }
+    ]
+  },
+  {
+    "id": "A2-01",
+    "objective": "Mengasingkan mengikut warna",
+    "category": "A2 Pengasingan",
+    "difficulty": "Basic",
+    "prompt": "Asingkan bulatan merah dan biru kepada dua kumpulan.",
+    "answer": "6 bulatan merah dalam kumpulan merah; 6 bulatan biru dalam kumpulan biru",
+    "status": "VALIDATED",
+    "provenance": "COL-11 authored",
+    "refs": [
+      {
+        "book": "01_BIJAK_FirstStep_Pupil_Book.pdf",
+        "page": 7
+      }
+    ]
+  },
+  {
+    "id": "A2-02",
+    "objective": "Mengasingkan mengikut jenis",
+    "category": "A2 Pengasingan",
+    "difficulty": "Basic",
+    "prompt": "Asingkan epal dan bola kepada kumpulan biji dan buah (5 epal, 5 bola).",
+    "answer": "5 epal dalam kumpulan buah; 5 bola dalam kumpulan biji",
+    "status": "PARTIAL",
+    "provenance": "COL-11 authored",
+    "refs": [
+      {
+        "book": "01_BIJAK_FirstStep_Pupil_Book.pdf",
+        "page": 7
+      }
+    ]
+  },
+  {
+    "id": "A2-03",
+    "objective": "Mengasingkan dan menandakan saiz",
+    "category": "A2 Pengasingan",
+    "difficulty": "Basic",
+    "prompt": "Asingkan bentuk besar dan kecil; lilit bulatan pada besar, tanda silang pada kecil.",
+    "answer": "4 bentuk besar dililit bulatan; 4 bentuk kecil ditandakan silang",
+    "status": "VALIDATED",
+    "provenance": "COL-11 authored",
+    "refs": [
+      {
+        "book": "01_BIJAK_FirstStep_Pupil_Book.pdf",
+        "page": 8
+      }
+    ]
+  },
+  {
+    "id": "A3-01",
+    "objective": "Mengenali kumpulan yang sama",
+    "category": "A3 Pengelasan",
+    "difficulty": "Basic",
+    "prompt": "Kenal pasti objek yang berbeza dalam setiap baris (bola, buku, pensel).",
+    "answer": "Baris 1: bola; Baris 2: buku; Baris 3: pensel; Baris 4 (bentuk): dua segitiga (△) berbeza daripada bulatan",
+    "status": "VALIDATED",
+    "provenance": "COL-11 authored",
+    "refs": [
+      {
+        "book": "01_BIJAK_FirstStep_Pupil_Book.pdf",
+        "page": 9
+      }
+    ]
+  },
+  {
+    "id": "A4-01",
+    "objective": "Melengkapkan corak berulang",
+    "category": "A4 Corak",
+    "difficulty": "Basic",
+    "prompt": "Lengkapkan corak: ○△○△○__; □□△□□__; ★○★○★__.",
+    "answer": "△; △; ○. Corak warna: oren, biru, oren, biru, oren, biru.",
+    "status": "VALIDATED",
+    "provenance": "COL-11 authored",
+    "refs": [
+      {
+        "book": "01_BIJAK_FirstStep_Pupil_Book.pdf",
+        "page": 10
+      }
+    ]
+  },
+  {
+    "id": "A4-02",
+    "objective": "Mencipta corak sendiri",
+    "category": "A4 Corak",
+    "difficulty": "Open",
+    "prompt": "Tulis corak sendiri pada garisan.",
+    "answer": "OPEN — terima sebarang corak berulang yang konsisten",
+    "status": "OPEN-ENDED",
+    "provenance": "COL-11 authored",
+    "refs": [
+      {
+        "book": "01_BIJAK_FirstStep_Pupil_Book.pdf",
+        "page": 10
+      }
+    ]
+  },
+  {
+    "id": "A5-01",
+    "objective": "Menggunakan bahasa kedudukan",
+    "category": "A5 Kedudukan",
+    "difficulty": "Basic",
+    "prompt": "Menyumbang objek pada kedudukan yang disebut (atas, bawah, dalam, kiri, kanan, belakang, hadapan).",
+    "answer": "OPEN — penilaian melalui contoh yang dilukis pada kedudukan betul",
+    "status": "OPEN-ENDED",
+    "provenance": "COL-11 authored",
+    "refs": [
+      {
+        "book": "01_BIJAK_FirstStep_Pupil_Book.pdf",
+        "page": 11
+      }
+    ]
+  },
+  {
+    "id": "AR-01",
+    "objective": "Semakan Unit A — padanan",
+    "category": "AR Semakan",
+    "difficulty": "Basic",
+    "prompt": "Padankan epal dengan epal, bola dengan buku (kesalahan sengaja) — jawapan betul: epal–epal, bola–bola.",
+    "answer": "epal dihubungkan ke epal; bola dihubungkan ke bola",
+    "status": "VALIDATED",
+    "provenance": "COL-11 authored",
+    "refs": [
+      {
+        "book": "01_BIJAK_FirstStep_Pupil_Book.pdf",
+        "page": 12
+      }
+    ]
+  },
+  {
+    "id": "AR-02",
+    "objective": "Semakan Unit A — corak",
+    "category": "AR Semakan",
+    "difficulty": "Basic",
+    "prompt": "Lengkapkan corak ○□○□○____.",
+    "answer": "□",
+    "status": "VALIDATED",
+    "provenance": "COL-11 authored",
+    "refs": [
+      {
+        "book": "01_BIJAK_FirstStep_Pupil_Book.pdf",
+        "page": 12
+      }
+    ]
+  },
+  {
+    "id": "B1-01",
+    "objective": "Mengira set 1–5",
+    "category": "B1 Mengira",
+    "difficulty": "Basic",
+    "prompt": "Kira tiga kumpulan (3, 4, 5 epal/bola) dan tulis nombor.",
+    "answer": "3, 4, 5; kumpulan buku: 5",
+    "status": "VALIDATED",
+    "provenance": "COL-11 authored",
+    "refs": [
+      {
+        "book": "01_BIJAK_FirstStep_Pupil_Book.pdf",
+        "page": 14
+      }
+    ]
+  },
+  {
+    "id": "B1-02",
+    "objective": "Mengira set hingga 10",
+    "category": "B1 Mengira",
+    "difficulty": "Basic",
+    "prompt": "Kira 10 epal/bola; kira 7 titik; tulis 1–10 mengikut turutan.",
+    "answer": "10; 7; turutan 1,2,3,4,5,6,7,8,9,10",
+    "status": "VALIDATED",
+    "provenance": "COL-11 authored",
+    "refs": [
+      {
+        "book": "01_BIJAK_FirstStep_Pupil_Book.pdf",
+        "page": 15
+      }
+    ]
+  },
+  {
+    "id": "B2-01",
+    "objective": "Mengecakan kuantiti dengan numeral",
+    "category": "B2 Mengenal nombor",
+    "difficulty": "Basic",
+    "prompt": "Kaitkan kuantiti 1–5 dengan numeral yang sama; lingkarkan nombor 3 untuk 3 buku.",
+    "answer": "1, 2, 3, 4, 5 kaitan betul; lingkaran pada nombor 3",
+    "status": "VALIDATED",
+    "provenance": "COL-11 authored",
+    "refs": [
+      {
+        "book": "01_BIJAK_FirstStep_Pupil_Book.pdf",
+        "page": 16
+      }
+    ]
+  },
+  {
+    "id": "B3-01",
+    "objective": "Menulis numeral 1–10",
+    "category": "B3 Menulis nombor",
+    "difficulty": "Basic",
+    "prompt": "Tulis nombor 7 (untuk latihan) dan nombor 3, 5, 8, 2 dalam kotak.",
+    "answer": "7; 3, 5, 8, 2 (penilaian penulisan oleh guru/ibu bapa)",
+    "status": "MANUAL REVIEW REQUIRED",
+    "provenance": "COL-11 authored",
+    "refs": [
+      {
+        "book": "01_BIJAK_FirstStep_Pupil_Book.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "B3-02",
+    "objective": "Latihan mengesan nombor 1–10",
+    "category": "B3 Menulis nombor",
+    "difficulty": "Basic",
+    "prompt": "Menyempurnakan penulisan nombor 1–10 melalui pengesanan dan penulisan sendiri.",
+    "answer": "Penilaian penulisan (MANUAL) — semua nombor 1–10 ditulis",
+    "status": "MANUAL REVIEW REQUIRED",
+    "provenance": "COL-11 authored",
+    "refs": [
+      {
+        "book": "01_BIJAK_FirstStep_Pupil_Book.pdf",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "id": "B4-01",
+    "objective": "Korespondensi satu-ke-satu",
+    "category": "B4 Konsep nombor",
+    "difficulty": "Basic",
+    "prompt": "Kaitkan set 4, 6, 3, 5 objek dengan nombor yang sama banyak.",
+    "answer": "epal–4, bola–6, buku–3, pensel–5",
+    "status": "VALIDATED",
+    "provenance": "COL-11 authored",
+    "refs": [
+      {
+        "book": "01_BIJAK_FirstStep_Pupil_Book.pdf",
+        "page": 19
+      }
+    ]
+  },
+  {
+    "id": "B4-02",
+    "objective": "Menjelaskan konsep satu-satu",
+    "category": "B4 Konsep nombor",
+    "difficulty": "Open",
+    "prompt": "Terangkan mengapa setiap benda mendapat satu nombor sahaja.",
+    "answer": "OPEN — jawapan seperti: setiap benda dikira sekali, satu nombor untuk satu benda",
+    "status": "OPEN-ENDED",
+    "provenance": "COL-11 authored",
+    "refs": [
+      {
+        "book": "01_BIJAK_FirstStep_Pupil_Book.pdf",
+        "page": 19
+      }
+    ]
+  },
+  {
+    "id": "B5-01",
+    "objective": "Memahami sifar",
+    "category": "B5 Sifar",
+    "difficulty": "Basic",
+    "prompt": "Mengenal pasti kumpulan kosong sebagai sifar; melingkar dua kumpulan kosong.",
+    "answer": "Dua kumpulan \"tiada\" (kotak 1 dan 3) dilingkarkan; sifar = 0 benda",
+    "status": "VALIDATED",
+    "provenance": "COL-11 authored",
+    "refs": [
+      {
+        "book": "01_BIJAK_FirstStep_Pupil_Book.pdf",
+        "page": 20
+      }
+    ]
+  },
+  {
+    "id": "B6-01",
+    "objective": "Membandingkan kuantiti",
+    "category": "B6 Perbandingan",
+    "difficulty": "Basic",
+    "prompt": "Pilih lebih/kurang/sama untuk dua pasangan kuantiti (4 vs 3; 5 vs 5).",
+    "answer": "4 lebih daripada 3 → \"lebih\"; 5 dan 5 → \"sama\"",
+    "status": "VALIDATED",
+    "provenance": "COL-11 authored",
+    "refs": [
+      {
+        "book": "01_BIJAK_FirstStep_Pupil_Book.pdf",
+        "page": 21
+      }
+    ]
+  },
+  {
+    "id": "B6-02",
+    "objective": "Membandingkan nilai numeral",
+    "category": "B6 Perbandingan",
+    "difficulty": "Basic",
+    "prompt": "Bulatkan nombor lebih besar (3&7→7; 9&4→9; 2&8→8; 6&6→sama; 5&1→5; 10&4→10); tulis yang lebih kecil (8&5→5; 2&9→2; 7&7→7).",
+    "answer": "Bulatan: 7, 9, 8, 6 atau 6 (sama), 5, 10. Lebih kecil: 5, 2, 7",
+    "status": "VALIDATED",
+    "provenance": "COL-11 authored",
+    "refs": [
+      {
+        "book": "01_BIJAK_FirstStep_Pupil_Book.pdf",
+        "page": 22
+      }
+    ]
+  },
+  {
+    "id": "B7-01",
+    "objective": "Menyusun nombor mengikut turutan",
+    "category": "B7 Susunan",
+    "difficulty": "Basic",
+    "prompt": "Susun 4,2,7,1 → 1,2,4,7; 9,3,6,5 → 3,5,6,9; 8,1,10,4 → 1,4,8,10; 3,9,5 menurun → 9,5,3.",
+    "answer": "1,2,4,7 | 3,5,6,9 | 1,4,8,10 | 9,5,3",
+    "status": "VALIDATED",
+    "provenance": "COL-11 authored",
+    "refs": [
+      {
+        "book": "01_BIJAK_FirstStep_Pupil_Book.pdf",
+        "page": 23
+      }
+    ]
+  },
+  {
+    "id": "BX-01",
+    "objective": "Isi nombor tertinggal 1–10",
+    "category": "BX Latihan tambahan",
+    "difficulty": "Basic",
+    "prompt": "Tiga turutan nombor dengan nombor kosong; isi nombor yang tertinggal. Kira dua kumpulan (5 dan 3).",
+    "answer": "1) 5, 8; 2) 2, 5, 9; 3) 1, 3, 6, 8, 10; kumpulan: 5 dan 3",
+    "status": "VALIDATED",
+    "provenance": "COL-11 authored",
+    "refs": [
+      {
+        "book": "01_BIJAK_FirstStep_Pupil_Book.pdf",
+        "page": 24
+      }
+    ]
+  },
+  {
+    "id": "BR-01",
+    "objective": "Semakan Unit B — mengira",
+    "category": "BR Semakan",
+    "difficulty": "Basic",
+    "prompt": "Kira 6 objek; baca nombor 8; bandingkan 2 dan 5; susun 4,1,3.",
+    "answer": "6; 8; \"kurang\" (2 kurang daripada 5); 1, 3, 4",
+    "status": "VALIDATED",
+    "provenance": "COL-11 authored",
+    "refs": [
+      {
+        "book": "01_BIJAK_FirstStep_Pupil_Book.pdf",
+        "page": 25
+      }
+    ]
+  },
+  {
+    "id": "C1-01",
+    "objective": "Mengira hingga 20",
+    "category": "C1 Mengira",
+    "difficulty": "Basic",
+    "prompt": "Kira 15 epal dan 20 titik; tulis turutan 11–20.",
+    "answer": "15; 20; 11,12,13,14,15,16,17,18,19,20",
+    "status": "VALIDATED",
+    "provenance": "COL-11 authored",
+    "refs": [
+      {
+        "book": "01_BIJAK_FirstStep_Pupil_Book.pdf",
+        "page": 27
+      }
+    ]
+  },
+  {
+    "id": "C2-01",
+    "objective": "Memahami nombor belasan",
+    "category": "C2 Struktur nombor",
+    "difficulty": "Basic",
+    "prompt": "Mengikut ten-frame: 12 = 10+2; 15 = 10+5; 18 = 10+8. Isi ten-frame untuk 17 (7 diisi).",
+    "answer": "12, 15, 18; ten-frame 17: 7 petak diisi; ten-frame dengan 4 diisi = 14",
+    "status": "VALIDATED",
+    "provenance": "COL-11 authored",
+    "refs": [
+      {
+        "book": "01_BIJAK_FirstStep_Pupil_Book.pdf",
+        "page": 28
+      }
+    ]
+  },
+  {
+    "id": "C3-01",
+    "objective": "Baca dan tulis 11–20",
+    "category": "C3 Menulis nombor",
+    "difficulty": "Basic",
+    "prompt": "Baca dan tulis numeral 13, 16, 19, 11, 20; tulis 12, 14, 17, 18.",
+    "answer": "13, 16, 19, 11, 20; 12, 14, 17, 18 (penilaian penulisan MANUAL)",
+    "status": "MANUAL REVIEW REQUIRED",
+    "provenance": "COL-11 authored",
+    "refs": [
+      {
+        "book": "01_BIJAK_FirstStep_Pupil_Book.pdf",
+        "page": 29
+      }
+    ]
+  },
+  {
+    "id": "C4-01",
+    "objective": "Membandingkan nombor 11–20",
+    "category": "C4 Perbandingan",
+    "difficulty": "Basic",
+    "prompt": "Bulat nombor lebih besar: (12,18)→18; (20,15)→20; (14,14)→sama; (17,11)→17; (19,16)→19; (13,20)→20. Tulis lebih kecil: 12, 17, 11.",
+    "answer": "18, 20, 14 (sama), 17, 19, 20; lebih kecil: 12, 17, 11",
+    "status": "VALIDATED",
+    "provenance": "COL-11 authored",
+    "refs": [
+      {
+        "book": "01_BIJAK_FirstStep_Pupil_Book.pdf",
+        "page": 30
+      }
+    ]
+  },
+  {
+    "id": "C5-01",
+    "objective": "Menyusun nombor hingga 20",
+    "category": "C5 Susunan",
+    "difficulty": "Basic",
+    "prompt": "Susun 14,11,17 → 11,14,17; 20,13,16 → 13,16,20; 19,12,18 → 12,18,19.",
+    "answer": "11,14,17 | 13,16,20 | 12,18,19",
+    "status": "VALIDATED",
+    "provenance": "COL-11 authored",
+    "refs": [
+      {
+        "book": "01_BIJAK_FirstStep_Pupil_Book.pdf",
+        "page": 31
+      }
+    ]
+  },
+  {
+    "id": "CX-01",
+    "objective": "Isi nombor tertinggal 11–20",
+    "category": "CX Latihan tambahan",
+    "difficulty": "Basic",
+    "prompt": "Tiga turutan nombor belasan dengan nombor kosong; isi nombor yang tertinggal. Bulat yang terbesar: 17, 15.",
+    "answer": "1) 13, 17; 2) 12, 15, 18; 3) 14, 16, 19; bulatan: 17, 15",
+    "status": "VALIDATED",
+    "provenance": "COL-11 authored",
+    "refs": [
+      {
+        "book": "01_BIJAK_FirstStep_Pupil_Book.pdf",
+        "page": 32
+      }
+    ]
+  },
+  {
+    "id": "CR-01",
+    "objective": "Semakan Unit C",
+    "category": "CR Semakan",
+    "difficulty": "Basic",
+    "prompt": "Kira 18 titik; 10+6; bandingkan 15 dan 12 → bulatkan 15.",
+    "answer": "18; 16; 15",
+    "status": "VALIDATED",
+    "provenance": "COL-11 authored",
+    "refs": [
+      {
+        "book": "01_BIJAK_FirstStep_Pupil_Book.pdf",
+        "page": 33
+      }
+    ]
+  },
+  {
+    "id": "D1-01",
+    "objective": "Konsep bahagian-keseluruhan",
+    "category": "D1 Part-part-whole",
+    "difficulty": "Basic",
+    "prompt": "5 = 2 + 3; 5 = 4 + 1; pecahkan 6 kepada dua bahagian (cth. 3+3, 4+2, 5+1).",
+    "answer": "5=2+3, 5=4+1; 6 boleh 3+3, 4+2, 5+1 atau 1+5, 2+4 (mana-mana dua yang jumlah 6)",
+    "status": "OPEN-ENDED",
+    "provenance": "COL-11 authored",
+    "refs": [
+      {
+        "book": "01_BIJAK_FirstStep_Pupil_Book.pdf",
+        "page": 35
+      }
+    ]
+  },
+  {
+    "id": "D2-01",
+    "objective": "Nombor gabungan hingga 10",
+    "category": "D2 Nombor gabungan",
+    "difficulty": "Basic",
+    "prompt": "Pasangan tambah kepada 10: 1+9, 2+8, 3+7, 4+6, 5+5. Isi: 3+7=10, 6+4=10, 2+8=10, 7+3=10.",
+    "answer": "1+9, 2+8, 3+7, 4+6, 5+5; jawapan: 7, 4, 8, 3",
+    "status": "VALIDATED",
+    "provenance": "COL-11 authored",
+    "refs": [
+      {
+        "book": "01_BIJAK_FirstStep_Pupil_Book.pdf",
+        "page": 36
+      }
+    ]
+  },
+  {
+    "id": "D3-01",
+    "objective": "Tambah sebagai penggabungan",
+    "category": "D3 Penambahan",
+    "difficulty": "Basic",
+    "prompt": "3 + 2 = 5; tambah kumpulan kecil: 2+1=3, 3+2=5, 4+3=7, 1+4=5.",
+    "answer": "5; 3, 5, 7, 5",
+    "status": "VALIDATED",
+    "provenance": "COL-11 authored",
+    "refs": [
+      {
+        "book": "01_BIJAK_FirstStep_Pupil_Book.pdf",
+        "page": 37
+      }
+    ]
+  },
+  {
+    "id": "D3-02",
+    "objective": "Penambahan dalam 1–10",
+    "category": "D3 Penambahan",
+    "difficulty": "Basic",
+    "prompt": "Selesaikan 2+3, 5+2, 1+6, 4+4, 3+5, 6+2, 7+1, 5+4.",
+    "answer": "5, 7, 7, 8, 8, 8, 8, 9",
+    "status": "VALIDATED",
+    "provenance": "COL-11 authored",
+    "refs": [
+      {
+        "book": "01_BIJAK_FirstStep_Pupil_Book.pdf",
+        "page": 38
+      }
+    ]
+  },
+  {
+    "id": "D4-01",
+    "objective": "Tolak sebagai pengambilan",
+    "category": "D4 Penolakan",
+    "difficulty": "Basic",
+    "prompt": "5 − 2 = 3; selesaikan 6−2, 5−3, 8−4, 7−1.",
+    "answer": "3; 4, 2, 4, 6",
+    "status": "VALIDATED",
+    "provenance": "COL-11 authored",
+    "refs": [
+      {
+        "book": "01_BIJAK_FirstStep_Pupil_Book.pdf",
+        "page": 39
+      }
+    ]
+  },
+  {
+    "id": "D4-02",
+    "objective": "Penolakan dalam 1–10",
+    "category": "D4 Penolakan",
+    "difficulty": "Basic",
+    "prompt": "Selesaikan 8−3, 7−2, 10−6, 6−4, 9−5, 10−2, 8−6, 5−1.",
+    "answer": "5, 5, 4, 2, 4, 8, 2, 4",
+    "status": "VALIDATED",
+    "provenance": "COL-11 authored",
+    "refs": [
+      {
+        "book": "01_BIJAK_FirstStep_Pupil_Book.pdf",
+        "page": 40
+      }
+    ]
+  },
+  {
+    "id": "D5-01",
+    "objective": "Tolak sebagai perbezaan",
+    "category": "D5 Penolakan",
+    "difficulty": "Basic",
+    "prompt": "7 − 3 = 4 (beza); cari beza: 6−2=4, 9−4=5, 8−5=3, 10−7=3.",
+    "answer": "4; 4, 5, 3, 3",
+    "status": "VALIDATED",
+    "provenance": "COL-11 authored",
+    "refs": [
+      {
+        "book": "01_BIJAK_FirstStep_Pupil_Book.pdf",
+        "page": 41
+      }
+    ]
+  },
+  {
+    "id": "D6-01",
+    "objective": "Masalah satu langkah tambah",
+    "category": "D6 Masalah",
+    "difficulty": "Basic",
+    "prompt": "Selesaikan masalah satu langkah: 3+2=5, 6+1=7.",
+    "answer": "5 orang; 7 orang",
+    "status": "VALIDATED",
+    "provenance": "COL-11 authored",
+    "refs": [
+      {
+        "book": "01_BIJAK_FirstStep_Pupil_Book.pdf",
+        "page": 42
+      }
+    ]
+  },
+  {
+    "id": "D6-02",
+    "objective": "Masalah satu langkah tolak",
+    "category": "D6 Masalah",
+    "difficulty": "Basic",
+    "prompt": "Selesaikan masalah satu langkah: 5−2=3, 8−3=5.",
+    "answer": "3 epal; 5 buku",
+    "status": "VALIDATED",
+    "provenance": "COL-11 authored",
+    "refs": [
+      {
+        "book": "01_BIJAK_FirstStep_Pupil_Book.pdf",
+        "page": 42
+      }
+    ]
+  },
+  {
+    "id": "D7-01",
+    "objective": "Penambahan hingga 20",
+    "category": "D7 Penambahan",
+    "difficulty": "Intermediate",
+    "prompt": "Selesaikan: 8+5=13, 9+4=13, 7+6=13, 11+3=14, 12+5=17, 10+9=19, 6+8=14, 13+4=17.",
+    "answer": "13, 13, 13, 14, 17, 19, 14, 17",
+    "status": "VALIDATED",
+    "provenance": "COL-11 authored",
+    "refs": [
+      {
+        "book": "01_BIJAK_FirstStep_Pupil_Book.pdf",
+        "page": 43
+      }
+    ]
+  },
+  {
+    "id": "D8-01",
+    "objective": "Penolakan hingga 20",
+    "category": "D8 Penolakan",
+    "difficulty": "Intermediate",
+    "prompt": "Selesaikan: 15−6=9, 18−8=10, 14−5=9, 12−4=8, 20−7=13, 16−9=7, 17−8=9, 11−3=8.",
+    "answer": "9, 10, 9, 8, 13, 7, 9, 8",
+    "status": "VALIDATED",
+    "provenance": "COL-11 authored",
+    "refs": [
+      {
+        "book": "01_BIJAK_FirstStep_Pupil_Book.pdf",
+        "page": 44
+      }
+    ]
+  },
+  {
+    "id": "DX-01",
+    "objective": "Latihan tambah dan tolak (dalam 10)",
+    "category": "DX Latihan tambahan",
+    "difficulty": "Basic",
+    "prompt": "Selesaikan lapan pengiraan tambah dan tolak dalam lingkungan 10.",
+    "answer": "7, 7, 9, 3, 8, 7, 9, 5",
+    "status": "VALIDATED",
+    "provenance": "COL-11 authored",
+    "refs": [
+      {
+        "book": "01_BIJAK_FirstStep_Pupil_Book.pdf",
+        "page": 45
+      }
+    ]
+  },
+  {
+    "id": "DR-01",
+    "objective": "Semakan Unit D — operasi",
+    "category": "DR Semakan",
+    "difficulty": "Basic",
+    "prompt": "4+5=9, 10−3=7, 6+7=13, 12−5=7, 2+9=11, 15−8=7.",
+    "answer": "9, 7, 13, 7, 11, 7",
+    "status": "VALIDATED",
+    "provenance": "COL-11 authored",
+    "refs": [
+      {
+        "book": "01_BIJAK_FirstStep_Pupil_Book.pdf",
+        "page": 46
+      }
+    ]
+  },
+  {
+    "id": "DR-02",
+    "objective": "Semakan Unit D — masalah",
+    "category": "DR Semakan",
+    "difficulty": "Basic",
+    "prompt": "5+3=8 marbles; 12−4=8 orang tinggal.",
+    "answer": "8; 8",
+    "status": "VALIDATED",
+    "provenance": "COL-11 authored",
+    "refs": [
+      {
+        "book": "01_BIJAK_FirstStep_Pupil_Book.pdf",
+        "page": 46
+      }
+    ]
+  },
+  {
+    "id": "E1-01",
+    "objective": "Mengenali bentuk 2D",
+    "category": "E1 Bentuk",
+    "difficulty": "Basic",
+    "prompt": "Menamakan 6 bentuk (bulatan, segi empat, segi tiga, segi empat panjang, bintang, hati) dan mewarnakan 3 bentuk mengikut arahan.",
+    "answer": "Bulatan, segi empat, segi tiga, segi empat panjang, bintang, hati; warna: bulatan biru, segi tiga hijau, bintang oren",
+    "status": "PARTIAL",
+    "provenance": "COL-11 authored",
+    "refs": [
+      {
+        "book": "01_BIJAK_FirstStep_Pupil_Book.pdf",
+        "page": 48
+      }
+    ]
+  },
+  {
+    "id": "E1-02",
+    "objective": "Mengenali bentuk 3D",
+    "category": "E1 Bentuk",
+    "difficulty": "Basic",
+    "prompt": "Menamakan kubus, gebukan, sfera, kon dan mencari contoh di rumah.",
+    "answer": "Kubus, gebukan, sfera, kon (penilaian contoh rumah OPEN)",
+    "status": "OPEN-ENDED",
+    "provenance": "COL-11 authored",
+    "refs": [
+      {
+        "book": "01_BIJAK_FirstStep_Pupil_Book.pdf",
+        "page": 49
+      }
+    ]
+  },
+  {
+    "id": "E2-01",
+    "objective": "Menggunakan arah dan kedudukan",
+    "category": "E2 Arah",
+    "difficulty": "Basic",
+    "prompt": "Mengikut arahan kedudukan: warnakan rumah, warnakan bulatan di kanan, lintang bola di kiri.",
+    "answer": "OPEN — penilaian melalui lukisan yang mengikut arahan",
+    "status": "OPEN-ENDED",
+    "provenance": "COL-11 authored",
+    "refs": [
+      {
+        "book": "01_BIJAK_FirstStep_Pupil_Book.pdf",
+        "page": 50
+      }
+    ]
+  },
+  {
+    "id": "E3-01",
+    "objective": "Membandingkan panjang",
+    "category": "E3 Panjang",
+    "difficulty": "Basic",
+    "prompt": "Lingkarkan crayon paling panjang (62mm, hijau) dan paling pendek (38mm, oren).",
+    "answer": "Paling panjang: crayon hijau; paling pendek: crayon oren",
+    "status": "VALIDATED",
+    "provenance": "COL-11 authored",
+    "refs": [
+      {
+        "book": "01_BIJAK_FirstStep_Pupil_Book.pdf",
+        "page": 51
+      }
+    ]
+  },
+  {
+    "id": "E3-02",
+    "objective": "Membandingkan saiz",
+    "category": "E3 Saiz",
+    "difficulty": "Basic",
+    "prompt": "Tulis \"besar\" untuk bentuk besar dan \"kecil\" untuk bentuk kecil (4 bentuk).",
+    "answer": "Besar, kecil, besar, kecil",
+    "status": "VALIDATED",
+    "provenance": "COL-11 authored",
+    "refs": [
+      {
+        "book": "01_BIJAK_FirstStep_Pupil_Book.pdf",
+        "page": 51
+      }
+    ]
+  },
+  {
+    "id": "E4-01",
+    "objective": "Hari dalam minggu",
+    "category": "E4 Masa",
+    "difficulty": "Basic",
+    "prompt": "Mengetahui turutan hari: Isnin hingga Ahad.",
+    "answer": "Isnin, Selasa, Rabu, Khamis, Jumaat, Sabtu, Ahad",
+    "status": "VALIDATED",
+    "provenance": "COL-11 authored",
+    "refs": [
+      {
+        "book": "01_BIJAK_FirstStep_Pupil_Book.pdf",
+        "page": 52
+      }
+    ]
+  },
+  {
+    "id": "E4-02",
+    "objective": "Aktiviti harian",
+    "category": "E4 Masa",
+    "difficulty": "Open",
+    "prompt": "Menyebut aktiviti mengikut waktu (pagi, tengah hari, petang, malam).",
+    "answer": "OPEN — terima jawapan yang munasabah",
+    "status": "OPEN-ENDED",
+    "provenance": "COL-11 authored",
+    "refs": [
+      {
+        "book": "01_BIJAK_FirstStep_Pupil_Book.pdf",
+        "page": 52
+      }
+    ]
+  },
+  {
+    "id": "E5-01",
+    "objective": "Data mudah dan jadual gambar",
+    "category": "E5 Data",
+    "difficulty": "Basic",
+    "prompt": "Kira epal (4), bola (3), buku (2); mengenal yang paling banyak.",
+    "answer": "4; 3; epal",
+    "status": "VALIDATED",
+    "provenance": "COL-11 authored",
+    "refs": [
+      {
+        "book": "01_BIJAK_FirstStep_Pupil_Book.pdf",
+        "page": 53
+      }
+    ]
+  },
+  {
+    "id": "EX-01",
+    "objective": "Latihan Permulaan: bentuk dan pengiraan",
+    "category": "EX Latihan tambahan",
+    "difficulty": "Basic",
+    "prompt": "Namakan tiga bentuk; kira 7 epal dan 3 bola (lebih); tulis 15 dan 18, 18 lebih besar.",
+    "answer": "Bulatan, segi empat, segi tiga; 7 dan 3 (epal lebih); 15 dan 18, 18 lebih besar",
+    "status": "VALIDATED",
+    "provenance": "COL-11 authored",
+    "refs": [
+      {
+        "book": "01_BIJAK_FirstStep_Pupil_Book.pdf",
+        "page": 54
+      }
+    ]
+  },
+  {
+    "id": "F1-01",
+    "objective": "Mewarnakan mengikut nombor",
+    "category": "F1 Kreatif",
+    "difficulty": "Open",
+    "prompt": "Mewarnakan kawasan dengan warna mengikut nombor peta.",
+    "answer": "OPEN — penilaian melalui hasil warnan yang mengikut legenda",
+    "status": "OPEN-ENDED",
+    "provenance": "COL-11 authored",
+    "refs": [
+      {
+        "book": "01_BIJAK_FirstStep_Pupil_Book.pdf",
+        "page": 55
+      }
+    ]
+  },
+  {
+    "id": "F2-01",
+    "objective": "Labirin turutan nombor",
+    "category": "F2 Kreatif",
+    "difficulty": "Basic",
+    "prompt": "Ikut lorong nombor 1 hingga 10 dari permulaan hingga Lebah Bijak.",
+    "answer": "Laluan: 1→2→3→4→5→6→7→8→9→10",
+    "status": "VALIDATED",
+    "provenance": "COL-11 authored",
+    "refs": [
+      {
+        "book": "01_BIJAK_FirstStep_Pupil_Book.pdf",
+        "page": 56
+      }
+    ]
+  },
+  {
+    "id": "F3-01",
+    "objective": "Teka-teki nombor",
+    "category": "F3 Kreatif",
+    "difficulty": "Intermediate",
+    "prompt": "1. Nombor antara 4 dan 6 → 5. 2. 2 lebih daripada 5 → 7. 3. 3+____=10 → 7. 4. 8−____=3 → 5.",
+    "answer": "5; 7; 7; 5",
+    "status": "VALIDATED",
+    "provenance": "COL-11 authored",
+    "refs": [
+      {
+        "book": "01_BIJAK_FirstStep_Pupil_Book.pdf",
+        "page": 57
+      }
+    ]
+  },
+  {
+    "id": "F4-01",
+    "objective": "Kad nombor potong",
+    "category": "F4 Kreatif",
+    "difficulty": "Open",
+    "prompt": "Menyediakan kad nombor 1–10 dan mencari pasangan tambah 10.",
+    "answer": "5 gabungan: 1+9, 2+8, 3+7, 4+6, 5+5",
+    "status": "PARTIAL",
+    "provenance": "COL-11 authored",
+    "refs": [
+      {
+        "book": "01_BIJAK_FirstStep_Pupil_Book.pdf",
+        "page": 58
+      }
+    ]
+  },
+  {
+    "id": "F5-01",
+    "objective": "Spot perbezaan matematik",
+    "category": "F5 Kreatif",
+    "difficulty": "Basic",
+    "prompt": "Menemui perbezaan kuantiti antara dua gambar (3 perbezaan tersorot).",
+    "answer": "3 perbezaan: epal kiri atas hilang; bola tengah menjadi epal; bulatan bawah hilang",
+    "status": "VALIDATED",
+    "provenance": "COL-11 authored",
+    "refs": [
+      {
+        "book": "01_BIJAK_FirstStep_Pupil_Book.pdf",
+        "page": 59
+      }
+    ]
+  },
+  {
+    "id": "FA-1",
+    "objective": "Pentaksiran kesediaan — mengira",
+    "category": "FA Pentaksiran",
+    "difficulty": "Basic",
+    "prompt": "Kira 7 objek; tulis 14; 6+____=10; 5+3; 9−4.",
+    "answer": "7; 14; 4; 8; 5",
+    "status": "VALIDATED",
+    "provenance": "COL-11 authored",
+    "refs": [
+      {
+        "book": "01_BIJAK_FirstStep_Pupil_Book.pdf",
+        "page": 60
+      }
+    ]
+  },
+  {
+    "id": "FA-2",
+    "objective": "Pentaksiran kesediaan — perbandingan",
+    "category": "FA Pentaksiran",
+    "difficulty": "Basic",
+    "prompt": "12 kurang daripada 16; susun 8,11,13 → 8,11,13 (sudah tersusun); 7+6=13; 15−8=7.",
+    "answer": "\"kurang\"; 8, 11, 13; 13; 7",
+    "status": "VALIDATED",
+    "provenance": "COL-11 authored",
+    "refs": [
+      {
+        "book": "01_BIJAK_FirstStep_Pupil_Book.pdf",
+        "page": 61
+      }
+    ]
+  },
+  {
+    "id": "FA-3",
+    "objective": "Pentaksiran kesediaan — masalah dan bentuk",
+    "category": "FA Pentaksiran",
+    "difficulty": "Basic",
+    "prompt": "6+3=9 orang; lingkarkan 3 bulatan.",
+    "answer": "9; 3 bulatan dilingkarkan",
+    "status": "VALIDATED",
+    "provenance": "COL-11 authored",
+    "refs": [
+      {
+        "book": "01_BIJAK_FirstStep_Pupil_Book.pdf",
+        "page": 61
+      }
+    ]
+  }
+]

@@ -1,0 +1,114 @@
+{
+  "package": "BIJAK Production Engine (frozen baseline)",
+  "status": "RECOVERED_REFERENCE_ONLY",
+  "source": "Google Drive STRATA HIVE / 04_ASSET_VAULT/BIJAK/MODULE_ENGINE/historical_source",
+  "files_verified": 21,
+  "note": "qa/*.json historical audit data EXCLUDED per Inheritance Policy §03",
+  "files": [
+    {
+      "path": "engine/./README.md",
+      "sha256": "681c651f9ae318436f8733dddda3f7488b3d7125e5ae25c61c243e71f1ca2483",
+      "bytes": 4223
+    },
+    {
+      "path": "engine/./RUJUKAN.md",
+      "sha256": "a3b8ca3ab97fbfb616526dd7d640718c9478cd5ea37329e8f34a306e2b66d757",
+      "bytes": 3161
+    },
+    {
+      "path": "engine/source/answers.py",
+      "sha256": "3b7fa893193e2ebe6a2930ba95a7962e390124e868bff7279c8d9ed222672d80",
+      "bytes": 5135
+    },
+    {
+      "path": "engine/source/build_all.py",
+      "sha256": "9cc3e4f32e4f6ac39fc04aa286ed54ebdf5e9c98dac4c52703460044467ee6e2",
+      "bytes": 1176
+    },
+    {
+      "path": "engine/source/build_benchmark.py",
+      "sha256": "bbdb8fb196dd62bee6ec6a565aaf1e633782713bf1ca80a097593b47a1aa3151",
+      "bytes": 29089
+    },
+    {
+      "path": "engine/source/calendar_data.json",
+      "sha256": "66dd975a90d25116a5d0c31722e352eb5935e8f0239dd1350916ee026e097acf",
+      "bytes": 5916
+    },
+    {
+      "path": "engine/source/core.py",
+      "sha256": "2f86097c7313b6b35b91f8653787a0df98017ac9cff31e24ecb90eda005ede13",
+      "bytes": 8853
+    },
+    {
+      "path": "engine/source/daily.py",
+      "sha256": "c32bb06a69c09d337e54225c7da1152a4224612f10a08ed9d2e9692c8a4e63b2",
+      "bytes": 7517
+    },
+    {
+      "path": "engine/source/game_data.json",
+      "sha256": "7d045c3c03446d789c255b23378f194bb0df77e20eec48f8c70a894a6fa68d5c",
+      "bytes": 8316
+    },
+    {
+      "path": "engine/source/games.py",
+      "sha256": "4ba76ff4b5ea85cc92b8c3a333696984eb07bdf16e1cb1ee4390335846356287",
+      "bytes": 19178
+    },
+    {
+      "path": "engine/source/guide.py",
+      "sha256": "2d950ae6d10a3061706243f6462ea7e0cc1a54fe6a7e035cffc192981ffdf2cc",
+      "bytes": 15277
+    },
+    {
+      "path": "engine/source/main_workbook.py",
+      "sha256": "e93f40f5b0daa2601a7db56bd1f6d6182b5b014225a75538596e49facdbc818e",
+      "bytes": 20082
+    },
+    {
+      "path": "engine/source/materials.py",
+      "sha256": "1096779801211a77ff3c9e63e5e609f806e36c28e5f19b2c01d5723e40043586",
+      "bytes": 11352
+    },
+    {
+      "path": "engine/source/tracker.py",
+      "sha256": "c0c4f451aab6d848ddaa1916d674071fae2c7ff0ec4f979f47718a54793a7d80",
+      "bytes": 7811
+    },
+    {
+      "path": "engine/source/validate_full.py",
+      "sha256": "6cadfac5317f783dbb703f608832aad6c391db50d63c7c5746c13fdb5896871f",
+      "bytes": 16557
+    },
+    {
+      "path": "engine/assets/epal.svg",
+      "sha256": "8bdc906fb6b76dba9bc3c6388ab1ec171889f0affb11f89ec8ccd1925f320359",
+      "bytes": 390
+    },
+    {
+      "path": "engine/assets/fonts/LESEN_DejaVu.txt",
+      "sha256": "63d3ba759d12804c5b31a9d5940d855c1820d1f5999e6b0872eb1c7ff045fbc9",
+      "bytes": 3859
+    },
+    {
+      "path": "engine/assets/pensel.svg",
+      "sha256": "1adcf04ba818e55c0ecd4136d46919b0464509a62111bbeecaa676e7607e2e75",
+      "bytes": 419
+    },
+    {
+      "path": "engine/templates/design_system.json",
+      "sha256": "7db41817b0c19ef332b0532dd46cd68dd071a48ed3fee35284850444cdb0a440",
+      "bytes": 907
+    },
+    {
+      "path": "engine/templates/lesson_template.json",
+      "sha256": "73822f4ada8081eacd943c1f7c2ec7e0907efb983907b43b2b34dc87714ecbf3",
+      "bytes": 876
+    },
+    {
+      "path": "engine/assets/templat_halaman.svg",
+      "sha256": "2c87736178e2d13bf8c311b98c016ca2b7bd50a0789cce6dd5fe770f648f1b3a",
+      "bytes": 1538
+    }
+  ]
+}

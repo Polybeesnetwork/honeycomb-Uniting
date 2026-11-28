@@ -1,0 +1,17 @@
+{
+  "sifir":7,
+  "tajuk":"Sifir 7 • lima tambah dua",
+  "prasyarat":["Kumpulan sama banyak","Sifir 5","Sifir 2"],
+  "strategi_utama":"n × 7 = (n × 5) + (n × 2)",
+  "rajah":{"jenis":"susunan_titik","baris":4,"lajur":7,"pecahan_lajur":[5,2]},
+  "contoh_kerja":[{"n":4,"langkah":[20,8],"hasil":28},{"n":8,"langkah":[40,16],"hasil":56},{"n":12,"langkah":[60,24],"hasil":84}],
+  "jadual":{"faktor_mula":1,"faktor_akhir":12},
+  "bimbingan":{"faktor":6,"ruang_kosong":[12,42]},
+  "latihan_sendiri":[9,11],
+  "ingat_semula":[7,8],
+  "corak":"Hasil bertambah 7 setiap langkah.",
+  "salah_faham":"Tambah dua kumpulan n, bukan tambah 2 sahaja.",
+  "refleksi":"Bagaimana kamu mendapat jawapan?",
+  "ulang_sela_hari":[1,3,7,14],
+  "nota":"Templat kandungan boleh sunting. Bukan enjin automatik; pindahkan kandungan yang disemak ke kelas Book dan jalankan pengesahan sebelum cetak."
+}

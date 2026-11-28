@@ -1,0 +1,253 @@
+{
+  "mission": "COL-11-BIJAK-FIRSTSTEP-001",
+  "generated": "2026-11-28",
+  "engine_baseline": {
+    "package": "BIJAK Production Engine (frozen baseline)",
+    "status": "RECOVERED_REFERENCE_ONLY",
+    "files_verified": 21,
+    "files": [
+      {
+        "path": "engine/./README.md",
+        "sha256": "681c651f9ae318436f8733dddda3f7488b3d7125e5ae25c61c243e71f1ca2483",
+        "bytes": 4223
+      },
+      {
+        "path": "engine/./RUJUKAN.md",
+        "sha256": "a3b8ca3ab97fbfb616526dd7d640718c9478cd5ea37329e8f34a306e2b66d757",
+        "bytes": 3161
+      },
+      {
+        "path": "engine/source/answers.py",
+        "sha256": "3b7fa893193e2ebe6a2930ba95a7962e390124e868bff7279c8d9ed222672d80",
+        "bytes": 5135
+      },
+      {
+        "path": "engine/source/build_all.py",
+        "sha256": "9cc3e4f32e4f6ac39fc04aa286ed54ebdf5e9c98dac4c52703460044467ee6e2",
+        "bytes": 1176
+      },
+      {
+        "path": "engine/source/build_benchmark.py",
+        "sha256": "bbdb8fb196dd62bee6ec6a565aaf1e633782713bf1ca80a097593b47a1aa3151",
+        "bytes": 29089
+      },
+      {
+        "path": "engine/source/calendar_data.json",
+        "sha256": "66dd975a90d25116a5d0c31722e352eb5935e8f0239dd1350916ee026e097acf",
+        "bytes": 5916
+      },
+      {
+        "path": "engine/source/core.py",
+        "sha256": "2f86097c7313b6b35b91f8653787a0df98017ac9cff31e24ecb90eda005ede13",
+        "bytes": 8853
+      },
+      {
+        "path": "engine/source/daily.py",
+        "sha256": "c32bb06a69c09d337e54225c7da1152a4224612f10a08ed9d2e9692c8a4e63b2",
+        "bytes": 7517
+      },
+      {
+        "path": "engine/source/game_data.json",
+        "sha256": "7d045c3c03446d789c255b23378f194bb0df77e20eec48f8c70a894a6fa68d5c",
+        "bytes": 8316
+      },
+      {
+        "path": "engine/source/games.py",
+        "sha256": "4ba76ff4b5ea85cc92b8c3a333696984eb07bdf16e1cb1ee4390335846356287",
+        "bytes": 19178
+      },
+      {
+        "path": "engine/source/guide.py",
+        "sha256": "2d950ae6d10a3061706243f6462ea7e0cc1a54fe6a7e035cffc192981ffdf2cc",
+        "bytes": 15277
+      },
+      {
+        "path": "engine/source/main_workbook.py",
+        "sha256": "e93f40f5b0daa2601a7db56bd1f6d6182b5b014225a75538596e49facdbc818e",
+        "bytes": 20082
+      },
+      {
+        "path": "engine/source/materials.py",
+        "sha256": "1096779801211a77ff3c9e63e5e609f806e36c28e5f19b2c01d5723e40043586",
+        "bytes": 11352
+      },
+      {
+        "path": "engine/source/tracker.py",
+        "sha256": "c0c4f451aab6d848ddaa1916d674071fae2c7ff0ec4f979f47718a54793a7d80",
+        "bytes": 7811
+      },
+      {
+        "path": "engine/source/validate_full.py",
+        "sha256": "6cadfac5317f783dbb703f608832aad6c391db50d63c7c5746c13fdb5896871f",
+        "bytes": 16557
+      },
+      {
+        "path": "engine/assets/epal.svg",
+        "sha256": "8bdc906fb6b76dba9bc3c6388ab1ec171889f0affb11f89ec8ccd1925f320359",
+        "bytes": 390
+      },
+      {
+        "path": "engine/assets/fonts/LESEN_DejaVu.txt",
+        "sha256": "63d3ba759d12804c5b31a9d5940d855c1820d1f5999e6b0872eb1c7ff045fbc9",
+        "bytes": 3859
+      },
+      {
+        "path": "engine/assets/pensel.svg",
+        "sha256": "1adcf04ba818e55c0ecd4136d46919b0464509a62111bbeecaa676e7607e2e75",
+        "bytes": 419
+      },
+      {
+        "path": "engine/templates/design_system.json",
+        "sha256": "7db41817b0c19ef332b0532dd46cd68dd071a48ed3fee35284850444cdb0a440",
+        "bytes": 907
+      },
+      {
+        "path": "engine/templates/lesson_template.json",
+        "sha256": "73822f4ada8081eacd943c1f7c2ec7e0907efb983907b43b2b34dc87714ecbf3",
+        "bytes": 876
+      },
+      {
+        "path": "engine/assets/templat_halaman.svg",
+        "sha256": "2c87736178e2d13bf8c311b98c016ca2b7bd50a0789cce6dd5fe770f648f1b3a",
+        "bytes": 1538
+      }
+    ]
+  },
+  "assets": [
+    {
+      "path": "assets/bola.svg",
+      "sha256": "15862b3c58b1f04351b2ce1070a5adbeb47bda45e367f1deb441ed45e38827f4",
+      "bytes": 426
+    },
+    {
+      "path": "assets/buku.svg",
+      "sha256": "af09fdecac1e3314614ed9d5709453c41f753ed7c1992d9fd9b539de37c13738",
+      "bytes": 616
+    },
+    {
+      "path": "assets/epal.svg",
+      "sha256": "067a55fd22f66b241df6aa340af612ebc3edac9ad365b2020835a800c5c65421",
+      "bytes": 517
+    },
+    {
+      "path": "assets/fonts/LESEN_DejaVu.txt",
+      "sha256": "63d3ba759d12804c5b31a9d5940d855c1820d1f5999e6b0872eb1c7ff045fbc9",
+      "bytes": 3859
+    },
+    {
+      "path": "assets/lebah_bijak.svg",
+      "sha256": "87e977c8515ab478a29a44a07dcae030ce1f391638e3ff5be53392bd5c3bcf13",
+      "bytes": 1421
+    },
+    {
+      "path": "assets/pensel.svg",
+      "sha256": "1adcf04ba818e55c0ecd4136d46919b0464509a62111bbeecaa676e7607e2e75",
+      "bytes": 419
+    }
+  ],
+  "build_outputs": {
+    "01_BIJAK_FirstStep_Pupil_Book.pdf": {
+      "sha256": "1724037b6f46375582a980bd6069529e738294235b8bd3e438934d791635fbc2",
+      "bytes": 240021,
+      "pages": 62,
+      "items": 62
+    },
+    "02_BIJAK_FirstStep_Answer_Book.pdf": {
+      "sha256": "e47318109ce5021eff0ed2fa569d3b637522a899be320a7d69769786466d948e",
+      "bytes": 127299,
+      "pages": 52,
+      "items_covered": 62
+    },
+    "03_BIJAK_FirstStep_Parent_Teacher_Guide.pdf": {
+      "sha256": "0dd61e641531c8ceeddbb792a7e0006ec03e37a1c53d832ebd4b1316770fd122",
+      "bytes": 80451,
+      "pages": 20
+    }
+  },
+  "qa_artifacts": {
+    "qa/layout.json": {
+      "entries": 1319,
+      "book": "01"
+    },
+    "qa/layout_02_answers.json": {
+      "entries": 907,
+      "book": "02"
+    },
+    "qa/layout_03_guide.json": {
+      "entries": 465,
+      "book": "03"
+    },
+    "qa/pages.json": {
+      "entries": 134
+    },
+    "qa/documents.json": {
+      "documents": 3
+    },
+    "qa/items.json": {
+      "items": 62
+    }
+  },
+  "build_commands": {
+    "pupil": "/home/user/honeycomb-Uniting/.venv/bin/python3 bijak_firststep/source/build_pupil.py",
+    "answers": "/home/user/honeycomb-Uniting/.venv/bin/python3 bijak_firststep/source/build_answers.py",
+    "guide": "/home/user/honeycomb-Uniting/.venv/bin/python3 bijak_firststep/source/build_guide.py"
+  },
+  "environment": {
+    "python": "3.11 (venv .venv)",
+    "reportlab": "5.1.2",
+    "svglib": "installed",
+    "pymupdf": "installed (rendering/QA only)",
+    "fonts": "/usr/share/fonts/truetype/dejavu"
+  },
+  "deliverables_sha256": {
+    "01_BIJAK_FirstStep_Pupil_Book.pdf": {
+      "sha256": "1724037b6f46375582a980bd6069529e738294235b8bd3e438934d791635fbc2",
+      "bytes": 240021
+    },
+    "02_BIJAK_FirstStep_Answer_Book.pdf": {
+      "sha256": "e47318109ce5021eff0ed2fa569d3b637522a899be320a7d69769786466d948e",
+      "bytes": 127299
+    },
+    "03_BIJAK_FirstStep_Parent_Teacher_Guide.pdf": {
+      "sha256": "0dd61e641531c8ceeddbb792a7e0006ec03e37a1c53d832ebd4b1316770fd122",
+      "bytes": 80451
+    },
+    "04_Source_And_Assets.zip": {
+      "sha256": "7cfb89d5c121705c505b4d252189a269232c5e3b3d1c2542f3a83b294e8a3420",
+      "bytes": 872067
+    },
+    "05_Curriculum_And_Skill_Mapping.md": {
+      "sha256": "9157a6dd4bec1151b437fdd6e834120321f0113356d7be08b7ab6409c8ce0557",
+      "bytes": 6323
+    },
+    "06_Production_Methodology.md": {
+      "sha256": "aad0ee08b11baa67589a5afd4daecd8d3d96ba893c73d0dc0c9884b14d199d86",
+      "bytes": 5095
+    },
+    "08_Item_Registry.json": {
+      "sha256": "d9cf764024e8b6c4efedfa349e0ba6411972f55beba4acb8b7427cb44cfb938b",
+      "bytes": 28440
+    },
+    "09_Defect_And_Limitation_Register.md": {
+      "sha256": "6b6d9824ee7ec1012af276d9566c9bdc99274dba65e65a498b05ea818439399f",
+      "bytes": 5294
+    },
+    "11_Inheritance_Manifest.json": {
+      "sha256": "5f0ee6b39ce8743d4f20269108d545df6b894c6e3175f64a7d0618526efb4aa4",
+      "bytes": 4608
+    },
+    "12_Experimental_Performance_Report.json": {
+      "sha256": "a93eedb110ffdb6ebf71278a44751f099eec0ad847b46cebc954a1f1541f31c3",
+      "bytes": 2903
+    },
+    "13_Harvest_Report.md": {
+      "sha256": "17f69065dbef77e66af80bad9392bb6535869e33646e4b30e2b7058c13b5cb5c",
+      "bytes": 2784
+    },
+    "14_Mission_Handover.md": {
+      "sha256": "e3ae0d52d408d202d521f8d7f15caf149742dd7bdf59eba037cdc131eb9d41eb",
+      "bytes": 3877
+    }
+  },
+  "deliverables_sha256_note": "SHA-256 of the 12 stable deliverables. 07_Quality_Assurance_Report.md and 10_Asset_And_Build_Manifest.json embed hash tables and are self-referential; their final hashes are recorded in 13_Harvest_Report.md and verified by git read-back."
+}

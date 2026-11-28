@@ -1,0 +1,17 @@
+{
+  "01_BIJAK_FirstStep_Pupil_Book.pdf": {
+    "pages": 62,
+    "code": "PUPIL",
+    "label": "Buku Aktiviti"
+  },
+  "02_BIJAK_FirstStep_Answer_Book.pdf": {
+    "pages": 52,
+    "code": "JWB",
+    "label": "Buku Jawapan"
+  },
+  "03_BIJAK_FirstStep_Parent_Teacher_Guide.pdf": {
+    "pages": 20,
+    "code": "PTG",
+    "label": "Buku Panduan"
+  }
+}

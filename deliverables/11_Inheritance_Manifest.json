@@ -1,0 +1,80 @@
+{
+  "mission": "COL-11-BIJAK-FIRSTSTEP-001",
+  "protocol": "STRATA GENESIS",
+  "arm": "Engine Inheritance",
+  "generated": "2026-11-28",
+  "engine_package": {
+    "name": "BIJAK Production Engine (frozen baseline)",
+    "authorization": "Founder-authorized frozen baseline only",
+    "recovered_from": "Google Drive STRATA HIVE / 04_ASSET_VAULT/BIJAK/MODULE_ENGINE/historical_source",
+    "drive_folder": "1ACmLpCpx-d5IJJxULeqoH_2PpoA6tpfI",
+    "status": "RECOVERED_REFERENCE_ONLY",
+    "files_verified": 21,
+    "integrity": "All 21 files sha256-verified against HARVEST_MANIFEST.json (27-file pin list); 21/21 match",
+    "excluded_by_policy": [
+      "engine qa/*.json historical audit data (Inheritance Policy section 03) — NOT downloaded",
+      "standalone SME23 modules — NOT AUTHORIZED",
+      "previous BIJAK manuscripts outside the frozen engine — NOT AUTHORIZED",
+      "historical BIJAK audit reports — NOT AUTHORIZED",
+      "TUALANG findings — NOT AUTHORIZED",
+      "additional harvested BIJAK skills — NOT AUTHORIZED",
+      "historical failure intelligence — NOT AUTHORIZED",
+      "current outputs of other experimental colonies — NOT INSPECTED"
+    ]
+  },
+  "inherited_capabilities": [
+    {
+      "capability": "Book / page engine (build_benchmark.Book)",
+      "file": "engine/source/build_benchmark.py",
+      "use": "Base class for the mission Book; page frame, text/para/box/svg drawing, layout ledger, equation ledger",
+      "how_executed": "prod_engine.Book subclasses it; all three PDFs generated through it at build time"
+    },
+    {
+      "capability": "Design system / palette",
+      "file": "engine/design_system.json",
+      "use": "Colour palette and typography constants inherited and extended by the production engine",
+      "how_executed": "imported by prod_engine at build time"
+    },
+    {
+      "capability": "Production orchestration pattern (build_all.py)",
+      "file": "engine/source/build_all.py",
+      "use": "Multi-document orchestration pattern reused for build_pupil.py / build_answers.py / build_guide.py",
+      "how_executed": "pattern followed; mission-specific orchestrators authored on top"
+    },
+    {
+      "capability": "Component vocabulary (tip, help_box, check_strip, star, sticker, shapes, frames)",
+      "file": "engine/source/core.py, engine/source/materials.py",
+      "use": "Reused and adapted as production components in prod_engine.py",
+      "how_executed": "executed during every page render"
+    }
+  ],
+  "mission_authored": {
+    "description": "All child-facing content is newly authored for Colony 11; nothing from historical manuscripts was reused",
+    "files": [
+      "source/prod_engine.py (production engine: Book subclass, registries, components, output redirection)",
+      "source/content_helpers.py (shared activity helpers)",
+      "source/content_pupil_a.py (front matter + Unit A)",
+      "source/content_pupil_b.py (Unit B)",
+      "source/content_pupil_c.py (Unit C)",
+      "source/content_pupil_d.py (Unit D)",
+      "source/content_pupil_e.py (Unit E + creative + assessment + certificate)",
+      "source/content_pupil_extra.py (extra practice pages)",
+      "source/build_pupil.py, build_answers.py, build_guide.py (orchestrators)",
+      "assets/lebah_bijak.svg (original mascot), assets/epal.svg, assets/bola.svg, assets/buku.svg"
+    ],
+    "content_replaced": "The historical engine's multiplication content was replaced with age-appropriate 6–7 transition content (addition/subtraction within 20, number bonds, shapes, measurement, data)"
+  },
+  "contamination_disclosure": {
+    "disclosed": true,
+    "items": [
+      "Tiger artwork binaries present in the historical engine package — EXCLUDED from this mission's build; no Tiger artwork appears in any deliverable",
+      "Font binaries in the historical package — NOT reused; system DejaVu fonts used instead",
+      "The frozen engine is a historical package and may contain embedded historical intelligence; it was executed only as a frozen baseline with content authored fresh for this mission. No historical SME content was merged into the child-facing pages."
+    ]
+  },
+  "verification": {
+    "baseline_lock": "bijak_firststep/engine/ + BASELINE_SHA256.json (immutable, 21/21 sha256)",
+    "engine_execution_evidence": "All three PDFs were produced by executing prod_engine (inherited build_benchmark.Book); build logs and qa registries recorded at build time",
+    "note": "Reading the engine alone would not satisfy the inheritance-utilization requirement; the engine was actually executed in the workflow."
+  }
+}

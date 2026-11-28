@@ -1,0 +1,11 @@
+{
+  "series": "BIJAK MATEMATIK",
+  "title": "RAHSIA KUASAI SIFIR 1–12",
+  "page": {"width_mm":210,"height_mm":297,"orientation":"portrait","safe_margin_mm":15},
+  "palette": {"blue":"#1768AD","orange":"#D97119","emerald":"#087D63","purple":"#7051A3","yellow":"#F2C94C","navy":"#17324B"},
+  "fonts": {"body":"DejaVu Sans","heading":"DejaVu Sans Bold","body_pt":10.5,"heading_pt":21,"small_card_formula_pt":7},
+  "progression": ["FAHAM","KIRA","INGAT","KUASAI"],
+  "ink_saving": {"background":"white","text":"dark gray","array_split":"outline circles and diagonal markers","instructions_equivalent":true},
+  "components": ["header","footer","strategy_banner","worked_example","dot_array","writing_lines","tip_box","recall_prompt","self_assessment"],
+  "notes":"Minimum small card sizes apply only to pocket materials; use generous student text elsewhere. Check every new long title and equation for fit."
+}
